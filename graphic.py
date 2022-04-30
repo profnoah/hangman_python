@@ -1,3 +1,4 @@
+# hangman graphics for CLI
 lives_dict = {
     0: """
         __________
