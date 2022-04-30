@@ -1,3 +1,5 @@
+# Hangman main file
+
 import random
 import string
 from words import words
